@@ -16,6 +16,12 @@
 * [DAW Plugins](getting-started/daw-plugins.md)
 * [Measurements Explained](getting-started/measurements-explained.md)
 
+***
+
+* [DAW TIPS](daw-tips.md)
+* [Pro Tools](pro-tools.md)
+* [Final Cut Pro X](final-cut-pro-x.md)
+
 ## Interface
 
 * [Interface Overview](interface/interface-overview.md)
