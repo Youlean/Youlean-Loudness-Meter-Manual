@@ -16,9 +16,18 @@
 * [DAW Plugins](getting-started/daw-plugins.md)
 * [Measurements Explained](getting-started/measurements-explained.md)
 
-## Interface and Operation
+## Interface
 
-* [Interface Overview](interface-and-operation/interface-overview.md)
+* [Interface Overview](interface/interface-overview.md)
+
+## SETTINGS AND MENUS
+
+* [Application Settings](settings-and-menus/application-settings.md)
+* [Meter Menus](settings-and-menus/meter-menus/README.md)
+  * [View Menu](settings-and-menus/meter-menus/view-menu.md)
+  * [Registration Menu](settings-and-menus/meter-menus/registration-menu.md)
+  * [Export Menu](settings-and-menus/meter-menus/export-menu.md)
+  * [Settings Menu](settings-and-menus/meter-menus/settings-menu.md)
 
 ## Usage Scenarios
 
