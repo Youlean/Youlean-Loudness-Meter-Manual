@@ -1,10 +1,6 @@
----
-description: YOULEAN LOUDNESS METER 2
----
-
 # End-User License Agreement
 
-**END-USER LICENSE AGREEMENT**
+## Youlean Loudness Meter 2
 
 This End User License Agreement (“EULA”) is a legal agreement between you, the end-user (whether an individual or a single corporate entity) and Youlean Software, (“Youlean”) a private company registered in Serbia. The terms of agreement apply to the software product(s), plugin(s) and any other Youlean services or software updates. By downloading, installing, using, copying or distributing the software, the user agrees to all of the terms of this agreement, as stated below.
 
