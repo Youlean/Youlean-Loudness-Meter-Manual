@@ -1,5 +1,60 @@
 # Changelog
 
+**V2.5.9 – October 3, 2024**
+
+* Fixed default settings do not load correctly with VST3 in some DAWs
+* Saving app session and dark theme settings are now global
+* Updated handling AAX IDs for a possible final fix for -20038 error in Pro Tools
+* Various small fixes
+
+**V2.5.8 – September 26, 2024**
+
+* Fixed crash when changing audio inputs in standalone APP
+* Fixed not being able to change audio device in the standalone APP on macOS 14.1 or earlier
+* Fixed normalized file name unicode error on Windows
+* Fixed GPU acceleration can not be disabled in some cases
+* Fixed overdubbing with Time Code mode not showing the right part of the graph
+* Added a popup button to update all presets when you change some parameters
+* The app will automatically reset audio input settings if it detects that it has crashed repeatedly
+* Various small fixes
+
+**V2.5.7 – September 13, 2024**
+
+* Fixed uppercase letters in the file extension not recognized correctly when analyzing a file
+* Fixed normalization not working for FLAC files
+* Fixed normalization not working correctly for files bigger than 4GB
+* Fixed graph glitches when framerate drops while overwriting in the time code mode
+* Fixed macOS scaling using CTLR instead of COMMAND key
+* Fixed crash in Qlab 5 on macOS
+* Fixed app won’t scale correctly on Windows when moving between monitors with different DPI
+* Fixed the “GUI will not fit” warning wrongly showing when using vertical monitors
+* Fixed AAX plugin doesn’t load in Avid Media Composer
+* Fixed AAX AAE: -20038 error in Pro Tools
+* Fixed graphical glitch when graphs are updating
+* Fixed compatibility with older project files
+* Added “–unregister-license” option to unregister license from the command line tool
+* Added more graph window sizes between 1h and 4h
+* Added option to double click and edit window size. Use: 01:15:53, or 1h 15m 53s notation. If time is not specified, it will be treated as minutes
+* Added option to auto update graph window size from the input audio length
+* Added default audio device option for input and output in the standalone app
+* Added option to reverse mouse wheel zooming direction
+* Added peak meter scale options
+* Added option to analyze system audio natively on macOS 14.2 and later
+* Added license info panel in registration menu
+* Added “Reset All Settings” button in the help menu
+* Updated the handling of global settings
+* Presets now save all settings, including text scaling etc.
+* Graph saving option no longer requires PRO version
+* Improved project saving speed and reduced project file size
+* Improved Audio Unit stability
+* Reversed direction of mouse wheel graph zooming
+* Windows app when analyzing system audio will auto switch audio devices if the default device is changed
+* Switched normalization WAV format for files bigger than 4GB from W64 to RF64 for better compatibility
+* Increased maximum file analysis time to 5965 hours (tested up to 150 hours)
+* Input file is not required anymore to register the license in the command line tool
+* App will now always start centered on the screen in order to prevent it from being off-screen in multi monitor setups
+* Various small fixes and stability improvements
+
 **V2.5.6 – December 29, 2023**
 
 * Fixed broken GUI text in drag & drop when GPU acceleration is off
