@@ -2,12 +2,12 @@
 
 ## Introduction
 
-* [Overview](README.md)
-* [FREE vs PRO](introduction/free-vs-pro.md)
-* [System Requirements](introduction/system-requirements.md)
-* [Installation - Windows](introduction/installation-windows.md)
+* [License Activation](README.md)
 * [Installation - macOS](introduction/installation-macos.md)
-* [License Activation](introduction/license-activation.md)
+* [Installation - Windows](introduction/installation-windows.md)
+* [System Requirements](introduction/system-requirements.md)
+* [FREE vs PRO](introduction/free-vs-pro.md)
+* [Overview](<README (1).md>)
 
 ## Getting Started
 
@@ -15,12 +15,6 @@
 * [Command-Line Tool](getting-started/command-line-tool.md)
 * [DAW Plugins](getting-started/daw-plugins.md)
 * [Measurements Explained](getting-started/measurements-explained.md)
-
-***
-
-* [DAW TIPS](daw-tips.md)
-* [Pro Tools](pro-tools.md)
-* [Final Cut Pro X](final-cut-pro-x.md)
 
 ## Interface
 
@@ -34,6 +28,12 @@
   * [Registration Menu](settings-and-menus/meter-menus/registration-menu.md)
   * [Export Menu](settings-and-menus/meter-menus/export-menu.md)
   * [Settings Menu](settings-and-menus/meter-menus/settings-menu.md)
+
+***
+
+* [DAW TIPS](daw-tips.md)
+* [Pro Tools](pro-tools.md)
+* [Final Cut Pro X](final-cut-pro-x.md)
 
 ## Usage Scenarios
 
