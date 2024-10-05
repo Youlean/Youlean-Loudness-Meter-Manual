@@ -2,12 +2,12 @@
 
 ## Introduction
 
-* [License Activation](README.md)
-* [Installation - macOS](introduction/installation-macos.md)
-* [Installation - Windows](introduction/installation-windows.md)
+* [Overview](README.md)
 * [System Requirements](introduction/system-requirements.md)
+* [Installation - Windows](introduction/installation-windows.md)
+* [Installation - macOS](introduction/installation-macos.md)
+* [License Activation](<README (1).md>)
 * [FREE vs PRO](introduction/free-vs-pro.md)
-* [Overview](<README (1).md>)
 
 ## Getting Started
 
