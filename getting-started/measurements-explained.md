@@ -22,11 +22,11 @@ Detects the maximum level of audio signal peaks to prevent digital clipping and 
 
 Measures the difference between the quietest and loudest parts of a track, indicating its dynamic range.
 
-### **Average Dynamics (Peak-to-Loudness Ratio):**
+### **Average Dynamics (PLR):**
 
 This ratio reflects the difference between the peak level and integrated loudness, providing insights into the overall dynamics of the track.
 
-### **Dynamics (Realtime Dynamics):**
+### **Dynamics (PSR):**
 
 Offers real-time insights into the dynamic processing of the audio by measuring the instantaneous difference between peak and loudness levels.
 
