@@ -29,11 +29,10 @@
   * [Export Menu](settings-and-menus/meter-menus/export-menu.md)
   * [Settings Menu](settings-and-menus/meter-menus/settings-menu.md)
 
-***
+## DAW TIPS
 
-* [DAW TIPS](daw-tips.md)
-* [Pro Tools](pro-tools.md)
-* [Final Cut Pro X](final-cut-pro-x.md)
+* [Pro Tools](daw-tips/pro-tools.md)
+* [Final Cut Pro X](daw-tips/final-cut-pro-x.md)
 
 ## Usage Scenarios
 
