@@ -8,6 +8,7 @@
 * [Installation - macOS](introduction/installation-macos.md)
 * [License Activation](<README (1).md>)
 * [FREE vs PRO](introduction/free-vs-pro.md)
+* [End-User License Agreement](introduction/end-user-license-agreement.md)
 
 ## Getting Started
 
