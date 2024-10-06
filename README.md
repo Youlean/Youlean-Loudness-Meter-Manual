@@ -2,7 +2,7 @@
 
 <div data-full-width="false">
 
-<figure><img src=".gitbook/assets/Youlean-Loudness-Meter-2-V2.5.5-BETA.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Youlean Loudness Meter 2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

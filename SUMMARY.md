@@ -6,7 +6,7 @@
 * [System Requirements](introduction/system-requirements.md)
 * [Installation - Windows](introduction/installation-windows.md)
 * [Installation - macOS](introduction/installation-macos.md)
-* [License Activation](<README (1).md>)
+* [License Activation](introduction/license-activation.md)
 * [FREE vs PRO](introduction/free-vs-pro.md)
 * [End-User License Agreement](introduction/end-user-license-agreement.md)
 
