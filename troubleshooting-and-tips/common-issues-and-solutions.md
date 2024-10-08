@@ -33,11 +33,11 @@ To move all data, copy these folders to the other computers.&#x20;
 
 If you open a plugin and you see this:
 
-<figure><img src="broken-reference" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/YLM2 Interface not visible Garageband.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Make sure that this option is disabled in Garageband preferences:
 
-<figure><img src="broken-reference" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/YLM2 Interface not visible Garageband Fix.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
