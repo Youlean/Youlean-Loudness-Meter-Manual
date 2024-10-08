@@ -88,8 +88,42 @@ Hover your mouse over the **"i"** button to preview the current preset alerts an
 
 </div>
 
-If you click here, you can pause all measurements.
+Click here to pause all measurements.
 
 {% hint style="info" %}
 After file analysis or normalization, measurements will be paused automatically.&#x20;
+{% endhint %}
+
+***
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Pause INT-LRA Button.png" alt="" width="206"><figcaption></figcaption></figure>
+
+</div>
+
+Click here to pause integrated loudness and loudness range measurements.&#x20;
+
+***
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Reset Button.png" alt="" width="201"><figcaption></figcaption></figure>
+
+</div>
+
+Click here to clear all measurements.
+
+***
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Auto Reset Button.png" alt="" width="228"><figcaption></figcaption></figure>
+
+</div>
+
+**"AUTO"** button will control if measurements will be cleared automatically once host starts playing.
+
+{% hint style="info" %}
+This button will be disabled when **"Continuous"** histogram mode is active because automatic measurement resets are not supported there.&#x20;
 {% endhint %}
