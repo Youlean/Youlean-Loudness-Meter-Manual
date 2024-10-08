@@ -127,3 +127,59 @@ Click here to clear all measurements.
 {% hint style="info" %}
 This button will be disabled when **"Continuous"** histogram mode is active because automatic measurement resets are not supported there.&#x20;
 {% endhint %}
+
+***
+
+## Meter Bars
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Meter Bar Momentary.png" alt="" width="171"><figcaption></figcaption></figure>
+
+</div>
+
+Three different styles of meter bars are available. In this style, the bar displays momentary loudness, while a triangle indicates short-term loudness.
+
+***
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Meter Bar Momentary, Short Term.png" alt="" width="184"><figcaption></figcaption></figure>
+
+</div>
+
+Here the left indicates momentary loudness, and the right displays short-term loudness.
+
+***
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Meter Bar Momentary, Dynamics, Short Term.png" alt="" width="171"><figcaption></figcaption></figure>
+
+</div>
+
+Here the left indicates momentary loudness, middle one indicated dynamics, and the right displays short-term loudness.
+
+***
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Meter Loudness Range.png" alt="" width="92"><figcaption></figcaption></figure>
+
+</div>
+
+This is the loudness range indicator.&#x20;
+
+## Peak Meters
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Peak Meters.png" alt="" width="289"><figcaption></figcaption></figure>
+
+</div>
+
+In the [View Menu](../settings-and-menus/meter-menus/view-menu.md) you can enable true peak meters. Peak meters channel configuration will be adjusted automatically based on the channel settings.&#x20;
+
+{% hint style="info" %}
+You can show all peak meters even if your channel configuration is for example mono. That could help you detect if the audio is coming from channel that is not included in the current channel configuration. This setting can be changed in the [View Menu.](../settings-and-menus/meter-menus/view-menu.md)&#x20;
+{% endhint %}
