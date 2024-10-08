@@ -183,3 +183,76 @@ In the [View Menu](../settings-and-menus/meter-menus/view-menu.md) you can enabl
 {% hint style="info" %}
 You can show all peak meters even if your channel configuration is for example mono. That could help you detect if the audio is coming from channel that is not included in the current channel configuration. This setting can be changed in the [View Menu.](../settings-and-menus/meter-menus/view-menu.md)&#x20;
 {% endhint %}
+
+***
+
+## Numerical Readouts
+
+
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Integrated Loudness.png" alt="" width="333"><figcaption></figcaption></figure>
+
+</div>
+
+The numerical displays will provide the current measurements.
+
+{% hint style="info" %}
+If the last 3 seconds of analysis are silent, dynamics and short-term measurements may be invalid. This occurs because these measurements are real-time and reflect only the most recent audio.
+{% endhint %}
+
+***
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Integrated Loudness Warning Under.png" alt="" width="333"><figcaption></figcaption></figure>
+
+</div>
+
+If the measurement is below its target, it will be shown as orange.
+
+***
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Integrated Loudness Warning Over.png" alt="" width="333"><figcaption></figcaption></figure>
+
+</div>
+
+If the measurement is above its target, it will be shown as red.&#x20;
+
+{% hint style="info" %}
+You can set measurement targets in the [Settings Menu. ](../settings-and-menus/meter-menus/settings-menu.md)
+{% endhint %}
+
+***
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/True Peak Reset.png" alt="" width="333"><figcaption></figcaption></figure>
+
+</div>
+
+You can reset some measurements by clicking on it.&#x20;
+
+***
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/True Peak Clipping Indicators.png" alt="" width="333"><figcaption></figcaption></figure>
+
+</div>
+
+True peak measurement will show you the channels where value was above the target.&#x20;
+
+***
+
+## A/B State
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/A,B States.png" alt="" width="254"><figcaption></figcaption></figure>
+
+</div>
+
