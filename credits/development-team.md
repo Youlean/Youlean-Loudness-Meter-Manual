@@ -8,8 +8,8 @@ The development was started for the **KVR Developer Challenge 2016** competition
 
 The winning product was then presented at **NAMM 2017** in Los Angeles, USA.
 
-<figure><img src="../.gitbook/assets/Youlean-at-NAMM-Show-2017-768x432.webp" alt=""><figcaption><p>Julijan Nikolic at NAMM 2017</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Julijan Nikolic at NAMM 2017</p></figcaption></figure>
 
 Since then, Youlean Loudness Meter has had a lot of new features added.
 
-<figure><img src="../.gitbook/assets/DSC_0485.jpg" alt=""><figcaption><p>Presenting new features added in V2.5.X BETAs</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Presenting new features added in V2.5.X BETAs</p></figcaption></figure>
