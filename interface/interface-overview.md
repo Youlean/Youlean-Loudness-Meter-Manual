@@ -1,6 +1,6 @@
 # Interface Overview
 
-<figure><img src="../.gitbook/assets/Youlean Loudness Meter 2.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Youlean Loudness Meter 2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
