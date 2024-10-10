@@ -260,7 +260,7 @@ You can switch between two states on the meter to compare measurements. First, a
 
 ***
 
-## Distribution Meter
+## Distribution View
 
 <div align="left">
 
@@ -268,3 +268,14 @@ You can switch between two states on the meter to compare measurements. First, a
 
 </div>
 
+This will show you the distribution of all loudness, dynamics or true peak measurements.&#x20;
+
+***
+
+## Histogram View
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Loudness Histogram.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
