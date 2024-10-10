@@ -256,3 +256,15 @@ True peak measurement will show you the channels where value was above the targe
 
 </div>
 
+You can switch between two states on the meter to compare measurements. First, analyze in State A, then switch to State B and analyze the other material. You can then toggle between these states to compare the results.
+
+***
+
+## Distribution Meter
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Loudness Distribution.png" alt="" width="271"><figcaption></figcaption></figure>
+
+</div>
+
