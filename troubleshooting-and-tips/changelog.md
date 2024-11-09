@@ -1,5 +1,22 @@
 # Changelog
 
+**V2.5.10 – November 9, 2024**
+
+* Fixed graph memory not saving correctly
+* Fixed utf8 characters not showing correctly in file names on Windows
+* Fixed meter hidden when external monitor is disconnected
+* Fixed file browse multimono crash
+* Fixed clipped text when moving with hardware acceleration off
+* Fixed crash when changing default OS audio device with standalone app
+* Fixed broken chars in Windows App settings
+* Fixed app will reset its settings if you quit via app menu a couple of times in a row
+* Fixed AAE: -20038 error in Pro Tools
+* App will now remember its position on the screen
+* Added resizing from all sides of the window for App on Windows
+* Removed meter interface is larger than the monitor warning
+* macOS 10.13 is now minimum requirement
+* Various small fixes
+
 **V2.5.9 – October 3, 2024**
 
 * Fixed default settings do not load correctly with VST3 in some DAWs
