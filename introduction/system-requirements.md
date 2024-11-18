@@ -4,7 +4,7 @@
 
 **Operating Systems:**
 
-* **macOS**: Supports Version 10.11 (El Capitan) or later, compatible with both Intel x64 and ARM64 architectures (Intel CPU, Apple Silicon, M1, M2, M3).
+* **macOS**: Supports Version 10.13 (High Sierra) or later, compatible with both Intel x64 and ARM64 architectures (Intel CPU, Apple Silicon, M1, M2, M3).
 * **Windows**: Compatible with Windows 7 or higher, supports both 32-bit and 64-bit Intel/AMD systems.
 
 **Formats:**&#x20;
