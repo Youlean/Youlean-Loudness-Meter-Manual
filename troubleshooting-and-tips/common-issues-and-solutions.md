@@ -16,7 +16,7 @@ The user data is stored in the following locations:
 **Windows:**
 
 ```
-C:\Users\your username\AppData\Local\Youlean\Youlean Loudness
+C:\Users\%USERNAME%\AppData\Local\Youlean\Youlean Loudness
 ```
 
 **macOS:**

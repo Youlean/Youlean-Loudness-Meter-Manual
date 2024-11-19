@@ -13,7 +13,7 @@ If you experience a crash on the Windows operating system, the Youlean Loudness 
 The location where crash reports will be saved is:
 
 ```
-C:\Users\***username***\AppData\Local\Youlean\Crash Reports
+C:\Users\%USERNAME%\AppData\Local\Youlean\Crash Reports
 ```
 
 ***
