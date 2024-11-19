@@ -15,5 +15,5 @@ Youlean Loudness Meter 2 standalone app can also be used for **File Analysis or 
 * **Normalization**: Use the **Normalization** feature in the standalone app to adjust the loudness of your files to meet specific targets, such as -14 LUFS for streaming. This ensures that your audio content is consistent and meets industry expectations.
 
 {% hint style="info" %}
-The application can analyze single files only. If you need batch mode, please use Command Line Tool to automate process. 
+The application can analyze single files only. If you need batch mode, please use Command Line Tool to automate the process.
 {% endhint %}
