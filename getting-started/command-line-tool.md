@@ -32,6 +32,14 @@ Always use absolute paths as relative paths are not supported.
 ```
 {% endcode %}
 
+{% hint style="info" %}
+You can also analyze multi-mono files too:
+
+```
+ylm2 --input-file-path "C:\example\file.L.wav" "C:\example\file.R.wav" "C:\example\file.C.wav" "C:\example\file.LFE.wav" "C:\example\file.Ls.wav" "C:\example\file.Rs.wav"
+```
+{% endhint %}
+
 This command analyzes the specified file and prints the results.
 
 2. **Analysis with Export**:
