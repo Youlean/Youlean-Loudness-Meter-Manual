@@ -1,6 +1,16 @@
 # Common Issues and Solutions
 
-## Plugin and App Measurements are Different&#x20;
+## Plugin doesn't show in Ableton Live
+
+Once you [install the VST3 plugin](../introduction/installation-windows.md) make sure that VST3 plugins are enabled in Ableton settings.&#x20;
+
+<div align="left"><figure><img src="../.gitbook/assets/Ableton VST3 plugins.png" alt=""><figcaption></figcaption></figure></div>
+
+For more info, [read Ableton's documentation.](https://help.ableton.com/hc/en-us/articles/209071729-Using-VST-plug-ins-on-Windows)
+
+***
+
+## Plugin and App Measurements are Different
 
 The most likely cause for this issue could be:
 
@@ -25,7 +35,7 @@ C:\Users\%USERNAME%\AppData\Local\Youlean\Youlean Loudness
 ~/Library/Application Support/Youlean/Youlean Loudness Meter 2
 ```
 
-To move all data, copy these folders to the other computers.&#x20;
+To move all data, copy these folders to the other computers.
 
 ***
 
@@ -43,6 +53,6 @@ Make sure that this option is disabled in Garageband preferences:
 
 ## The meter doesn't show any measurements
 
-The problem might be if the **Elapsed** histogram mode is selected, but audio playback is stopped.&#x20;
+The problem might be if the **Elapsed** histogram mode is selected, but audio playback is stopped.
 
 The solution is to switch to continuous mode for measurements or to activate a host playback.
