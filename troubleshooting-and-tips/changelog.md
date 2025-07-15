@@ -1,5 +1,9 @@
 # Changelog
 
+**V2.5.11 - July 15, 2025**
+
+*
+
 **V2.5.10 – November 9, 2024**
 
 * Fixed graph memory not saving correctly
@@ -375,7 +379,7 @@
 * Improved GUI performance on 5K iMacs and macOS running non-default display color profiles
 * Other small UI, UX improvements
 
-**V2.3.2 –  October 17, 2019**
+**V2.3.2 – October 17, 2019**
 
 * Fixed wrong channel selection in the standalone app
 * Fixed wrong input name with the ASIO driver in the standalone app
@@ -389,7 +393,7 @@
 * Added fullscreen mode in the standalone app
 * Other small UI, UX improvements
 
-**V2.3.1 –  August 30, 2019**
+**V2.3.1 – August 30, 2019**
 
 * Fixed volume boost in FL Studio
 * Fixed custom preset glitch
@@ -400,7 +404,7 @@
 * Added prevention of crashing when loading saved state from newer versions
 * Audio is now only passed for channels set inside the interface
 
-**V2.3.0 –  August 11, 2019**
+**V2.3.0 – August 11, 2019**
 
 * Audio is now always passed for all connected channels
 * Added option to add a custom logo to exported files
@@ -424,9 +428,7 @@
 * Improved general stability
 * Small UI, UX improvements
 
-&#x20;
-
-**V2.2.4 –  June 20, 2019**
+**V2.2.4 – June 20, 2019**
 
 * Added Apple Podcast and Spotify Loud presets
 * Drag and drop now always process audio at the file sample rate
@@ -446,7 +448,7 @@
 * Improved overall performance
 * Other small UI, UX improvements
 
-**V2.2.3 –  May 2, 2019**
+**V2.2.3 – May 2, 2019**
 
 * Fixed graph not correctly updated in some cases if using Time Code mode
 * Fixed input gain not retaining value if global settings are used
@@ -559,8 +561,7 @@
 * Improved compatibility with Final Cut Pro X (more work needs to be done)
 * Fixed crash with AU loading in Studio One
 
-**V2.0.0 – September 1, 2018**\
-
+**V2.0.0 – September 1, 2018**\\
 
 * Fixed resizing issues in Ableton Live on Windows
 * Fixed drop shadow glitch with scaled GUI
@@ -590,13 +591,13 @@
 * Added option to set focus on readouts
 * Resizing performance improvements
 
-**V1.9.7 – BETA – May 7, 2018**&#x20;
+**V1.9.7 – BETA – May 7, 2018**
 
 * Fixed hold max values not resetting after a mouse click
 * Added AAX plugin type for macOS and Windows
 * Stability improvements
 
-**V1.9.6 – BETA – May 2, 2018**&#x20;
+**V1.9.6 – BETA – May 2, 2018**
 
 * Fixed VST3 not working in Studio One
 * Fixed VST3 not working in vMix
@@ -618,7 +619,7 @@
 
 **v1.9.3 – BETA – Apr 1, 2018**
 
-* &#x20;Fixed broken v1.9.2 build that will crash sometimes
+* Fixed broken v1.9.2 build that will crash sometimes
 
 **v1.9.2 – BETA – Mar 31, 2018**
 
@@ -687,7 +688,7 @@
 * Fixed true peak detection
 * Fixed a button that pauses integrated and loudness range measurements
 
-**v1.0.1 – Dec 4, 2016**&#x20;
+**v1.0.1 – Dec 4, 2016**
 
 * Fixed missing libraries on macOS
 * Fixed volume boost in FL Studio
