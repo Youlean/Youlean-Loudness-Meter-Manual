@@ -1,5 +1,9 @@
 # Changelog
 
+**V2.5.12 - July 20, 2025**
+
+*	Fixed crash or GUI freeze on Windows when disabling histogram
+
 **V2.5.11 - July 15, 2025**
 
 *	Fixed crash when loading deleted default preset
