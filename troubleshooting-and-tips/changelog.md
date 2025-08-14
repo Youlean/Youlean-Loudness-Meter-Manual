@@ -1,5 +1,16 @@
 # Changelog
 
+**V2.5.13 - August 14, 2025**
+
+*	Fixed update all presets doesn't work in some cases
+*	Removed 32-Bit plugins support for Windows
+*	Added ARM64 support for Windows (AAX is not supported yet)
+*	Measurements will auto reset if transport loops. This can be disabled in advanced settings
+*	Significantly reduced binary sizes by removing custom fallback fonts and by optimizing some other files
+*	Fonts for Japanese, Korean, Arabic, Thai, and Chinese languages will be loaded from OS by default
+*	Fallback fonts will be loaded only if missing glyph is detected in order to save RAM
+*	Various small fixes
+
 **V2.5.12 - July 20, 2025**
 
 *	Fixed crash or GUI freeze on Windows when disabling histogram
