@@ -21,7 +21,7 @@
 
 <table><thead><tr><th width="161">Format</th><th>Path</th></tr></thead><tbody><tr><td>APP</td><td>C:\Program Files\Youlean\Youlean Loudness Meter 2</td></tr><tr><td>CMD</td><td>C:\Program Files\Youlean\Youlean Loudness Meter 2</td></tr><tr><td>VST2</td><td>C:\Program Files\Steinberg\Vstplugins</td></tr><tr><td>VST3</td><td>C:\Program Files\Common Files\VST3</td></tr><tr><td>AAX</td><td>C:\Program Files\Common Files\Avid\Audio\Plug-Ins</td></tr></tbody></table>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 The paths are same for both ARM64 and Intel/AMD x64. Make sure to copy the correct architecture.&#x20;
 {% endhint %}
 
