@@ -71,7 +71,7 @@ Normalizes the audio file and exports a PDF report.
 * For a full list of `--preset-name`, `--channel-config`, and `--export-type` options, use `--help` to print options to the console.
 {% endhint %}
 
-### Examples
+#### Examples
 
 You can download the scripts here and double-click on the script to load it. On macOS, you may need to make the script executable by using `chmod +x`. Once launched, it will prompt you to specify the folder for analysis. You can drag the folder from File Explorer or Finder, and every audio file will be analyzed, generating a report.
 
