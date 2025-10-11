@@ -75,7 +75,9 @@ Normalizes the audio file and exports a PDF report.
 
 You can download the scripts here and double-click on the script to load it. On macOS, you may need to make the script executable by using `chmod +x`. Once launched, it will prompt you to specify the folder for analysis. You can drag the folder from File Explorer or Finder, and every audio file will be analyzed, generating a report.
 
-{% embed url="https://youlean.co/wp-content/uploads/2025/10/ylm2-Analyze-Folder.zip" %}
+{% hint style="success" %}
+Download Analyze Folder Script here: [link](https://youlean.co/wp-content/uploads/2025/10/ylm2-Analyze-Folder.zip)
+{% endhint %}
 
 ***
 
@@ -91,4 +93,6 @@ Simply insert any audio files you wish to analyze into the `ylm2-to-process` fol
 * `ylm2-completed`: Successfully processed files are moved here.
 * `ylm2-failed`: Files that fail to process are moved to this folder.
 
-{% embed url="https://youlean.co/wp-content/uploads/2025/10/ylm2-Batch-Process-Analyze.zip" %}
+{% hint style="success" %}
+Download Analyze Folder Script here: [link](https://youlean.co/wp-content/uploads/2025/10/ylm2-Batch-Process-Analyze.zip)
+{% endhint %}
