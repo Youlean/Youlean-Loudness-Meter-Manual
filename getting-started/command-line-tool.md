@@ -70,3 +70,19 @@ Normalizes the audio file and exports a PDF report.
 * **Console Results**: Use `--print-result` to see immediate analysis results in the console.
 * For a full list of `--preset-name`, `--channel-config`, and `--export-type` options, use `--help` to print options to the console.
 {% endhint %}
+
+### Examples
+
+You can download the scripts here and double-click on the script to load it. On macOS, you may need to make the script executable by using `chmod +x`. Once launched, it will prompt you to specify the folder for analysis. You can drag the folder from File Explorer or Finder, and every audio file will be analyzed, generating a report.
+
+{% embed url="https://youlean.co/wp-content/uploads/2025/10/ylm2-Analyze-Folder.zip" %}
+
+To automatically organize your files during processing, the script will create three folders:
+
+* `ylm2-to-process`: This directory is monitored for new files to be analyzed.
+* `ylm2-completed`: Successfully processed files are moved here.
+* `ylm2-failed`: Files that fail to process are moved to this folder.
+
+Insert files into the `ylm2-to-process`, and the script will handle them based on the outcome of the analysis.
+
+{% embed url="https://youlean.co/wp-content/uploads/2025/10/ylm2-Batch-Process-Analyze.zip" %}
