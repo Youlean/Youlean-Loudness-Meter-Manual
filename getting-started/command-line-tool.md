@@ -94,5 +94,5 @@ Simply insert any audio files you wish to analyze into the `ylm2-to-process` fol
 * `ylm2-failed`: Files that fail to process are moved to this folder.
 
 {% hint style="success" %}
-Download Watch Folder Script here: [link](https://youlean.co/wp-content/uploads/2025/10/ylm2-Batch-Process-Analyze.zip)
+Download Watch Folder Script here: [link](https://youlean.co/wp-content/uploads/2025/10/ylm2-Watch-Folder.zip)
 {% endhint %}
