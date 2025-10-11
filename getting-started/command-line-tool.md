@@ -83,15 +83,17 @@ Download Analyze Folder Script here: [link](https://youlean.co/wp-content/upload
 
 #### Watch folder script
 
-The second script will create a watch folder setup, streamlining the analysis process for multiple files. By organizing the files into designated folders for processing, completion, and failures, you can efficiently manage your audio analysis workflow.&#x20;
+Set up a watch folder system to organize your audio files into folders for processing, completed tasks, and errors. This helps you efficiently manage your audio analysis workflow.
+
+Double-click the script to start the watch folder process.
 
 Simply insert any audio files you wish to analyze into the `ylm2-to-process` folder, and the script will automatically process them, moving them to the appropriate outcome folder.
 
-
-
+{% hint style="info" %}
 * `ylm2-to-process`: This directory is monitored for new files to be analyzed.
 * `ylm2-completed`: Successfully processed files are moved here.
 * `ylm2-failed`: Files that fail to process are moved to this folder.
+{% endhint %}
 
 {% hint style="success" %}
 Download Watch Folder Script here: [link](https://youlean.co/wp-content/uploads/2025/10/ylm2-Watch-Folder.zip)
