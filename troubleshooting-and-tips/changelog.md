@@ -1,5 +1,10 @@
 # Changelog
 
+**V2.5.14 – November 23, 2025**
+
+* Fixed update notification not working correctly
+* Fixed horrible GUI lag on some Windows PCs
+
 **V2.5.13 - August 14, 2025**
 
 *	Fixed update all presets doesn't work in some cases
